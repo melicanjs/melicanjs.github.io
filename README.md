@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![Your Name](./images/headshot.jpg)
+![Your Name](./azores.png)
 
 Welcome to my personal portfolio website! This website serves as a showcase of my work, skills, and experiences. 
 
