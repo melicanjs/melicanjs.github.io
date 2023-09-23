@@ -4,13 +4,15 @@
 
 Welcome to my personal portfolio website! This website serves as a showcase of my work, skills, and experiences. 
 
-## Table of Contents
+<div style="float: right; width: 30%; padding-left: 20px;">
+  <h2>Table of Contents</h2>
 
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
-
+  - [About Me](#about-me)
+  - [Projects](#projects)
+  - [Skills](#skills)
+  - [Work Experience](#work-experience)
+  - [Contact](#contact)
+</div>
 ## About Me
 
 In this section, provide a brief introduction about yourself, including your educational background:
