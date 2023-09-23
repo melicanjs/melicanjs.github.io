@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-<img src="./azores.jpg" alt="Your Name" width="200" height="200">
+<img src="./azores.jpg" alt="Your Name" width="200" height="200" align="left">
 
 Welcome to my personal portfolio website! This website serves as a showcase of my work, skills, and experiences. 
 
