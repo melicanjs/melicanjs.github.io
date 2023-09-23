@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![Your Name](./azores.png)
+<img src="./azores.jpg" alt="Your Name" width="200" height="200">
 
 Welcome to my personal portfolio website! This website serves as a showcase of my work, skills, and experiences. 
 
